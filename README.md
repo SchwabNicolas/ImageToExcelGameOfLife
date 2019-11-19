@@ -10,4 +10,4 @@ Converts an image to an importable text.
 
 ## How the image will render ?
 Like this :
-![Example image](image)
+![Example image](https://github.com/SchwabNicolas/ImageToExcelGameOfLife/blob/master/images/example.jpg)
