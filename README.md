@@ -8,6 +8,9 @@ Converts an image to an importable text.
 4. Edit the name of the file at line 11 of *imageToGOLExcel.pde*.
 5. The result is located in *result.txt*.
 
+## What if the result is not good enough ?
+You can adjust the luminosity by changing the ```SENSIVITY``` constant at line 4.
+
 ## How the image will render ?
 Like this :
 
