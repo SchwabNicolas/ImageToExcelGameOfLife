@@ -1,5 +1,5 @@
 # ImageToExcelGameOfLife
-Converts an image to an importable text.
+A program used to convert an image to a game of life grid.
 
 ## How to use that program ?
 1. Create a folder named *imageToGOLExcel*.
